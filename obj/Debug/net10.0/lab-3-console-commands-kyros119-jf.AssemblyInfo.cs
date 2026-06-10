@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab-3-console-commands-kyros119-jf")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82db3da88ced040b8f50450f1aa87cac26aa8813")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc03ef99d7a08d47c330068eb7b95a59232a7815")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab-3-console-commands-kyros119-jf")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab-3-console-commands-kyros119-jf")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
